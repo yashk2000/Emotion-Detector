@@ -52,3 +52,8 @@ python emotionDetector.py --cascade haarcascade_frontalface_default.xml --model 
 python emotionDetectorMultipleFaces.py --cascade haarcascade_frontalface_default.xml --model checkpoints/epoch_75.hdf5
 ```
 
+Results:
+
+![Screenshot from 2020-04-29 23-48-40](https://user-images.githubusercontent.com/41234408/80632071-5085b200-8a74-11ea-8eae-eeccd0277ecb.png)
+
+PS: I think I am a robot and therefore the only emotion I have is neutral and it's the only screenshot I was able to upload. 
