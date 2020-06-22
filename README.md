@@ -11,7 +11,7 @@ It can detect 6 facial expressions:
 - Surprise
 - Neutral
 
-The CNN has been traind on the [FER2013](https://www.kaggle.com/c/challenges-in-representation-learning-facial-expression-recognition-challenge/data) dataset available on Kaggle. 
+The CNN has been trained on the [FER2013](https://www.kaggle.com/c/challenges-in-representation-learning-facial-expression-recognition-challenge/data) dataset available on Kaggle. 
 
 # 1) Building the dataset: 
 
